@@ -11,8 +11,6 @@ This repository uses a Deep-Q learning technique that allos the AI to learn what
 
 Dueling Q Networks make use of separate decision making strcutures to approximate a given state's value and an approxiamte for the value of it's next action. 
 
-## THe model and hyperparameters
-
 ## 3 Getting started with the repository
 This repository requires some dependencies to be installed, particulary the Unity Gym. 
 Follow these links to install the right dependencies: 
