@@ -20,6 +20,10 @@ Follow these links to install the right dependencies:
 4. Windows 64bit: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip
 5. No monitor linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip
 
+You will also have to install some python depencies:
+1. First, please follow the setup on this url to get your python virtual environment set up: https://github.com/udacity/deep-reinforcement-learning#dependencies
+2. Open a terminal window at the root of this repository and run the following command: pip -q install ./python
+
 ## 4 Instructions 
 
 Place the download in this repository in the root folder, and follow along with the Navigation.ipynb Jupyter Notebook. 
